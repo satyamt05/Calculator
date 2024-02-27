@@ -1,0 +1,10 @@
+.outer{
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    height: 590px;
+    margin: 20px 520px;
+    border-radius: 10px;
+    
+    
+}   
